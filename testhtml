@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <title>only a test</title>
+  </head>
+  <body>
+    <form method="POST">
+      usercode:<input type="text" name = "code"><br/>
+      password:<input type="text" name = "pwd"><br/>
+      <input type="submit" value = "Submit">
+    </form>
+  </body>
+</html>
